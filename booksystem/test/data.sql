@@ -1,0 +1,1 @@
+insert into book (name,author,category,description) values ('三国演义','罗贯中','文学','三国演义')insert into book (name,author,category,description) values ('水浒传','范仲淹','文学','水浒传')insert into book (name,author,category,description) values ('西游记','吴承恩','文学','西游记')insert into book (name,author,category,description) values ('红楼梦','曹雪芹','文学','红楼梦')
